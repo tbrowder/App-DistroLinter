@@ -1,0 +1,6 @@
+use Test;
+use App::DistroLinter;
+
+pass "replace me";
+
+done-testing;

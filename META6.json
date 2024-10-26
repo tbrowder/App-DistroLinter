@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides a linter for module authors to check their source repository before publishing",
+  "license": "Artistic-2.0",
+  "name": "App::DistroLinter",
+  "perl": "6.d",
+  "provides": {
+    "App::DistroLinter": "lib/App/DistroLinter.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}

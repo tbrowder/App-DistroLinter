@@ -1,0 +1,29 @@
+=begin pod
+
+=head1 NAME
+
+B<App::DistroLinter> - Provides a linter for module authors to check their source repository before publishing
+
+=head1 SYNOPSIS
+
+=begin code :lang<raku>
+
+use App::DistroLinter;
+
+=end code
+
+=head1 DESCRIPTION
+
+B<App::DistroLinter> is ...
+
+=head1 AUTHOR
+
+Tom Browder <tbrowder@acm.org>
+
+=head1 COPYRIGHT AND LICENSE
+
+© 2024 Tom Browder
+
+This library is free software; you may redistribute it or modify it under the Artistic License 2.0.
+
+=end pod
